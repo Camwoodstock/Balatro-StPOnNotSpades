@@ -1,0 +1,13 @@
+{
+    "id": "CWS-StPOnNotSpades",
+    "name": "StP on not Spades",
+    "author": ["Cam & Tori & Cecil & Claire"],
+    "description": "Adds the Slay the Princess Friends of Jimbo cards to suits other than Spades... That's literally it.",
+    "prefix": "sons",
+    "main_file": "StPOnNotSpades.lua",
+	"priority": 0,
+    "badge_colour": "261e1e",
+    "dependencies": [
+    ],
+    "version": "1.0.0"
+}
